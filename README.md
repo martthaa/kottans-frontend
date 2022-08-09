@@ -1,7 +1,5 @@
 
 ### :wave: *Hi there, I'm Martha and I wanna to share my experience in some passing courses with you:*
-
-
 ---
 ## Git Basics:
 - __Introduction to Git and GitHub (2 week)__ [link to a course](https://www.coursera.org/learn/introduction-git-github)
