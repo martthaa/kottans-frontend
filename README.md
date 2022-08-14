@@ -121,7 +121,7 @@
 >Something I'm going to use in the future: I will use html to build web-pages.
 
 &nbsp;
-![week1](/task_html_css_intro/codecademe.jpg)
+![codecademe](/task_html_css_intro/codecademe.jpg)
 
 
 &nbsp;
@@ -134,7 +134,54 @@
 >Something I'm going to use in the future: I will use css to build beautiful web-pages.
 
 &nbsp;
-![week1](/task_html_css_intro/codecademe.jpg)
+![codecademe](/task_html_css_intro/codecademe.jpg)
+
+&nbsp;
+## Responsive Web Design:
+- __Responsive web design basics__ [link to article](https://web.dev/i18n/en/responsive-web-design-basics/)
+
+>New thing: using CSS media queries for responsiveness, any-hover, any-pointer. Also discover for myself that classic readability theory suggests that an ideal column should contain 70-80 characters per line(about 8 to 10 words in English).
+
+>The thing that surprised me: nothing.
+
+>Something I'm going to use in the future: viewport, flexbox, Grid Layots, @media.
+
+&nbsp;
+- __FLEXBOX. Вчимося верстати на флексах__ [link to video](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+
+>New thing: align-self, flex-basis, flex-grow, flex-shrink.
+
+>The thing that surprised me: In general, it is interesting to use FLEXBOX at work.
+
+>Something I'm going to use in the future: align-items, flex-direction, flex-wrap, align-content.
+
+&nbsp;
+![flexbox_video](/task_responsive_web_design/flexbox_video.jpg)
+
+&nbsp;
+- __Flexbox Froggy__ [link to game](http://flexboxfroggy.com/#uk)
+
+*Сonclusion: interesting interactive game for practice.*
+
+![flexboxFroggy](/task_responsive_web_design/flexboxFroggy.jpg)
+
+&nbsp;
+- __CSS Grid Layout__ [link to video](https://www.youtube.com/playlist?list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+
+>New thing: grid-template-columns, grid-template-areas, grid-auto-rows, grid-auto-columns, grit-auto-flow.
+
+>The thing that surprised me: I rarely used Grid before, but I founded out that using it make creating a web page a lot easier.
+
+>Something I'm going to use in the future: grid-column-start, grid-column-end, grid-column.
+
+![flexboxFroggy](/task_responsive_web_design/grid_video.jpg)
+
+&nbsp;
+- __Grid Garden__ [link to video](http://cssgridgarden.com/)
+
+*Сonclusion: interesting interactive game for practice.*
+
+![gridGarden](/task_responsive_web_design/gridGarden.jpg)
 
 
 
