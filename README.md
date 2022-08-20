@@ -190,6 +190,7 @@
 
 &nbsp;
 ## JS Basics:
+*Сonclusion: it was extremely interesting and fun. I learned new things, such as reduce() and filter(), which I will definitely use in the future.*
 
 ![CourseraCourse](/task_js_basics/1-CourseraCourse.jpg)
 
@@ -204,6 +205,7 @@
 ![FunctionalProgramming](/task_js_basics/6-FunctionalProgramming.jpg)
 
 ![ntermediateAlgorithmScripting](/task_js_basics/7-IntermediateAlgorithmScripting.jpg)
+
 
 
 
