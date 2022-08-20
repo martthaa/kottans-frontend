@@ -188,6 +188,26 @@
 [Demo](https://martthaa.github.io/sweetPopUp/) /
 [Code](https://github.com/martthaa/sweetPopUp)
 
+&nbsp;
+## JS Basics:
+
+![CourseraCourse](/task_js_basics/1-CourseraCourse.jpg)
+
+![BasicJS](/task_js_basics/2-BasicJS.jpg)
+
+![ES6Challenges](/task_js_basics/3-ES6Challenges.jpg)
+
+![BasicDataStructures](/task_js_basics/4-BasicDataStructures.jpg)
+
+![BasicAlgogithmScripting](/task_js_basics/5-BasicAlgogithmScripting.jpg)
+
+![FunctionalProgramming](/task_js_basics/6-FunctionalProgramming.jpg)
+
+![ntermediateAlgorithmScripting](/task_js_basics/7-IntermediateAlgorithmScripting.jpg)
+
+
+
+
 
 
 
