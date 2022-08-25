@@ -206,6 +206,19 @@
 
 ![ntermediateAlgorithmScripting](/task_js_basics/7-IntermediateAlgorithmScripting.jpg)
 
+&nbsp;
+## JS Basics:
+*Сonclusion: in fact, I already knew a lot about DOM but remembering things and practicing them was useful for me. I also really liked working with a practical task, I faced with challenges, I put in the effort and solved these problems successfully.*
+
+![Document Object Model Manipulation](./task_js_dom/DOMCoursera.jpg)
+![IntermediateAlgorithmScripting](./task_js_dom/IntermediateAlgorithmScripting.jpg)
+
+### Practice Sidebar Menu
+
+[Code](https://github.com/martthaa/Music-SideBar-Menu) |
+[Demo](https://martthaa.github.io/Music-SideBar-Menu/)
+
+
 
 
 
