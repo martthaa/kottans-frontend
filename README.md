@@ -235,5 +235,21 @@
 Classic Frogger Game:
 [DEMO](https://martthaa.github.io/frontend-nanodegree-arcade-game/) | [CODE BASE](https://github.com/martthaa/frontend-nanodegree-arcade-game)
 
+I learned a lot about:
+
+- Scopes;
+- Closures;
+- this keyword;
+- Object Decorator Pattern;
+- Functional Classes;
+- Prototypal Classes;
+- Pseudoclassical Patterns;
+- Superclass and Subclasses;
+
+
+I completed frogger game. It was difficult and unobvious task for me.
+
+I returned to codewars service after a long period. Now I am better prepared to solve tasks (katas) and achieved new levels (kuys). I plan to continue the task solving at this service at future.
+
 
 
