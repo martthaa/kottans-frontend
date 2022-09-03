@@ -223,8 +223,17 @@
 
 [DEMO]( https://martthaa.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/martthaa/a-tiny-JS-world)
 
+&nbsp;
+## Object-Oriented JavaScript:
 
+![OOP_part1](./task_js_oop/OOP_1.png)
 
+![OOP_part2](./task_js_oop/OOP_2.png)
+
+![Codewars](./task_js_oop/profileCodewars.png)
+
+Classic Frogger Game:
+[DEMO](https://martthaa.github.io/frontend-nanodegree-arcade-game/) | [CODE BASE](https://github.com/martthaa/frontend-nanodegree-arcade-game)
 
 
 
